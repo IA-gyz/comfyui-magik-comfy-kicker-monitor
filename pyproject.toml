@@ -1,0 +1,16 @@
+[project]
+name = "comfyui-magik-comfy-kicker-monitor"
+version = "1.0.0"
+description = 'Magik Comfy Kicker Monitor'
+authors = [{name = "IA-gyz"}]
+license = {text = "MIT"}
+readme = "README.md"
+requires-python = ">=3.10"
+dependencies = []
+
+[project.urls]
+Repository = "https://github.com/IA-gyz/comfyui-magik-comfy-kicker-monitor"
+
+[tool.comfy]
+PublisherId = "IA-gyz"
+DisplayName = "Magik Comfy Kicker Monitor"
